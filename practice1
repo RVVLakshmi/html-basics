@@ -1,0 +1,12 @@
+Html Program structure 
+
+<!DOCTYPE html>
+<html>
+<head></head>
+<body></body>
+</html>
+
+html tag,head tag, body tag are containers.
+<p></p>[opening tag][closing tag]This is paragraph tag
+p tag adds the text to the new line automatically add the text at the left side of the web page.
+
